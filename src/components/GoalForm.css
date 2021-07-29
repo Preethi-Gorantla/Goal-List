@@ -1,0 +1,14 @@
+.input-ele{
+  height: 25px;
+  width: 100%;
+  border-width:0px solid whitesmoke;
+}
+.buttn{
+  margin-top: 25px;
+  width: 150px;
+  height: 40px;
+  background-color:#ac0e77;;
+  border-color: #ac0e77;
+  color: white;
+}
+
